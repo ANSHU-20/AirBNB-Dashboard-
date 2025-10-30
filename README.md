@@ -20,8 +20,14 @@ This dashboard was designed to answer several core business questions based on t
 
 The data was sourced from Inside Airbnb and includes detailed listings data, such as pricing, availability, location (neighborhood), property type, room type, host information, and review metrics.
 
+* **Dashboard for New Orleans:** *
+
 <img width="910" height="509" alt="image" src="https://github.com/user-attachments/assets/11194ed0-0840-4977-832e-cbabe6cbf844" />
 
+
+
+* **Dashboard for Chicago** *
+  
 <img width="904" height="503" alt="image" src="https://github.com/user-attachments/assets/be9ec899-3a89-4b9b-ac7a-74b842ec7115" />
 
 
