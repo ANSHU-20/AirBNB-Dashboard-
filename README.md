@@ -1,5 +1,4 @@
-# AirBNB-Dashboard-
-# Airbnb Data Analysis Dashboard (Power BI)
+# AirBNB-Dashboard- Analysis in Power Bi
 
 This repository contains a Power BI dashboard built to analyze Airbnb listings data. The project leverages data from **Inside Airbnb** to explore key trends, pricing strategies, and host activity within a specific market.
 
